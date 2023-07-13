@@ -14,7 +14,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="273dp"
-            android:background="@drawable/base">
+            android:background="">
 
             <ImageView
                 android:layout_width="483dp"
@@ -117,7 +117,6 @@
             android:fontFamily="@font/san_francisco"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textColor="@color/purple_500"
             android:gravity="center|center_horizontal"
             android:text="@string/label_nuevoUser"/>
     </LinearLayout>
